@@ -1,0 +1,20 @@
+{
+  "name": "@letruke-007/platforms",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Letruke-007/ajs-homeworks-tree-ajs8-platforms#readme",
+  "bugs": {
+    "url": "https://github.com/Letruke-007/ajs-homeworks-tree-ajs8-platforms/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Letruke-007/ajs-homeworks-tree-ajs8-platforms.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
