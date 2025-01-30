@@ -18,7 +18,8 @@
   "bugs": {
     "url": "https://github.com/Letruke-007/ajs-homeworks-tree-ajs8-platforms/issues"
   },
-  "homepage": "https://github.com/Letruke-007/ajs-homeworks-tree-ajs8-platforms#readme",
+  "homepage": "https://github.com/Letruke-007/ajs-homeworks-tree-ajs8-platforms#readme",  
+  
   "devDependencies": {
     "@babel/cli": "^7.26.4",
     "@babel/core": "^7.26.7",
